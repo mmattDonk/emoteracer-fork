@@ -8,7 +8,7 @@ const emoteAvatars = [
     name: "Auro",
     url: "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x",
     code: "60d3ffd0448b0762ffbd89e8",
-    price: 1,
+    price: 0,
   },
   {
     name: "mmattDonk",

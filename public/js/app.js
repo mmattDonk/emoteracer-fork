@@ -744,6 +744,13 @@ function profilePage() {
                   <button class="select-emote-btn">SELECT</button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">Auro</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="Auro">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">5Head</div>
                   <div class="emote-box-img">
                     <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5d6096974932b21d9c332904/3x">
