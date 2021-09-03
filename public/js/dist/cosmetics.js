@@ -14,13 +14,19 @@ const emoteAvatars = [
     name: "mmattDonk",
     url: "https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0",
     code: "306852246",
-    price: 1,
+    price: 0,
+  },
+  {
+    name: "ActuallyWicked",
+    url: "https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x",
+    code: "60de6a589236aff3225a7682",
+    price: 0,
   },
   {
     name: "WHAAT",
     url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x",
     code: "60c29a6ff922dd0b5674b11d",
-    price: 1,
+    price: 50,
   },
   {
     name: "5Head",

@@ -751,6 +751,27 @@ function profilePage() {
                   <button class="buy-emote-btn" data-value="0" data-name="Auro">FREE<img src="imgs/YEP_COIN.svg"></button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">mmattDonk</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="mmattDonk">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">ActuallyWicked</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="ActuallyWicked">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">WHAAT</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">
+                  </div>
+                  <button class="buy-emote-btn" data-value="50" data-name="WHAAT">50<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">5Head</div>
                   <div class="emote-box-img">
                     <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5d6096974932b21d9c332904/3x">
