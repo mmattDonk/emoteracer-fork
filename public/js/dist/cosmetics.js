@@ -7,19 +7,19 @@ const emoteAvatars = [
   {
     name: "Auro",
     url: "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x",
-    code: "feelsauromanlol",
+    code: "60d3ffd0448b0762ffbd89e8",
     price: 1,
   },
   {
     name: "mmattDonk",
     url: "https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0",
-    code: "mmattbdonklol",
+    code: "306852246",
     price: 1,
   },
   {
     name: "WHAAT",
     url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x",
-    code: "whaatlol",
+    code: "60c29a6ff922dd0b5674b11d",
     price: 1,
   },
   {
