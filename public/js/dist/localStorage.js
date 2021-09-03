@@ -55,11 +55,13 @@ const getUsername = () => {
 
 // SET USERNAME
 const setUsername = (newName) => {
+  if (newName === "Auro") {setUsernameColor("#FFD700"); setProfileImg('https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x')}
   localStorage.setItem("username", newName);
 }
 
 // GET USERNAME COLOR
 const getUsernameColor = () => {
+  if (getUsername() === "Auro") {const usernameColor = "#FFD700"; return usernameColor}
   const usernameColor = localStorage.getItem("usernameColor");
   return usernameColor;
 }
@@ -82,6 +84,7 @@ const getProfileImg = () => {
 
 // SET PROFILE IMG
 const setProfileImg = (newImg) => {
+  if (newImg === "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x") {localStorage.setItem("profileImg", "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x");}
   const ownedAvatars = JSON.parse(localStorage.getItem("ownedAvatars"))
   // Find matching names and set new profile img
   for(let avatar of ownedAvatars) {
