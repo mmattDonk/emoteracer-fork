@@ -5,6 +5,24 @@
 
 const emoteAvatars = [
   {
+    name: "Auro",
+    url: "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x",
+    code: "feelsauromanlol",
+    price: 0,
+  },
+  {
+    name: "mmattDonk",
+    url: "https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0",
+    code: "mmattbdonklol",
+    price: 0,
+  },
+  {
+    name: "WHAAT",
+    url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x",
+    code: "whaatlol",
+    price: 0,
+  },
+  {
     name: "5Head",
     url: "https://cdn.betterttv.net/emote/5d6096974932b21d9c332904/3x",
     code: "955c6623-a740-4fe2-a226-4197a5bca3d4",
