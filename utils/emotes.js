@@ -47,6 +47,7 @@ const emotesServer = [
   // {id: "5608cf93fdaf5f3275fe39cd", name: "nyanPls", provider: "bttv"},
   {id: "5ec39a9db289582eef76f733", name: "NOPERS", provider: "bttv"},
   {id: "55cbeb8f8b9c49ef325bf738", name: "WaitWhat", provider: "bttv"},
+  {id: "604d9058306b602acc59c911", name: "WHAAT", provider: "bttv"},
   {id: "5c6934c724de827d9bbb4723", name: "xqcDitch", provider: "bttv"},
 
   {id: 301073, name: "Pog", provider: "ffz"},
