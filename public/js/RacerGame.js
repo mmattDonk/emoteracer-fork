@@ -348,7 +348,7 @@ function racerGame() {
           readonly>
         </div>
         <div class="game-skip-container">
-          <h2 class="game-skip-label">PRESS <img class="arrow-up-key"src="imgs/ArrowUp.svg"> TO SKIP</h2>
+          <h2 class="game-skip-label">PRESS <img class="arrow-up-key"src="imgs/ArrowUp.svg"> (Up Arrow) TO SKIP</h2>
         </div>
       </div>
     </div>
