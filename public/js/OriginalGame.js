@@ -26,6 +26,7 @@ function originalGame() {
     if(currentEmote.provider === "twitch") emoteImg.src = `https://static-cdn.jtvnw.net/emoticons/v1/${emotesClone[randomEmoteIndex].id}/3.0`
     if(currentEmote.provider === "bttv") emoteImg.src = `https://cdn.betterttv.net/emote/${emotesClone[randomEmoteIndex].id}/3x`
     if(currentEmote.provider === "ffz") emoteImg.src = `https://cdn.frankerfacez.com/emoticon/${emotesClone[randomEmoteIndex].id}/4`
+    if(currentEmote.provider === "7tv") emoteImg.src = `https://cdn.7tv.app/emote/${emotesClone[randomEmoteIndex].id}/3x`
 
     emotesClone.splice(randomEmoteIndex, 1)
     $('.game-upper-content').waitForImages(function() {
