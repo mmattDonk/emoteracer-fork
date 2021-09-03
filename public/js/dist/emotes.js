@@ -86,7 +86,7 @@ function getEmotes() {
     {id: 218530, name: "PepoG", provider: "ffz"},
     {id: 246878, name: "WideHard", provider: "ffz"},
     {id: 261915, name: "HYPERDANSGAME", provider: "ffz"},
-    {id: 419215, name: "MEGALUL", provider: "ffz"},
+    {id: 341201, name: "MEGALUL", provider: "ffz"},
     {id: 421124, name: "WeirdChamp", provider: "ffz"},
     {id: 227992, name: "Pepepains", provider: "ffz"},
     // {id: 407009, name: "KEKL", provider: "ffz"},
