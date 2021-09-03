@@ -765,6 +765,13 @@ function profilePage() {
                   <button class="buy-emote-btn" data-value="0" data-name="ActuallyWicked">FREE<img src="imgs/YEP_COIN.svg"></button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">elpwsQC</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://static-cdn.jtvnw.net/emoticons/v2/305641614/default/dark/3.0">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="elpwsQC">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">WHAAT</div>
                   <div class="emote-box-img">
                     <img class="emote-box-url" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">

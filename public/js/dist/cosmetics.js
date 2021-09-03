@@ -23,6 +23,12 @@ const emoteAvatars = [
     price: 0,
   },
   {
+    name: "elpwsQC",
+    url: "https://static-cdn.jtvnw.net/emoticons/v2/305641614/default/dark/3.0",
+    code: "305641614",
+    price: 0,
+  },
+  {
     name: "WHAAT",
     url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x",
     code: "60c29a6ff922dd0b5674b11d",
