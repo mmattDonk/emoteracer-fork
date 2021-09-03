@@ -58,7 +58,7 @@ const emotesServer = [
   {id: 214681, name: "monkaW", provider: "ffz"},
   {id: 239504, name: "5Head", provider: "ffz"},
   {id: 130762, name: "monkaS", provider: "ffz"},
-  {id: 381875, name: "KEKW", provider: "ffz"},
+//   {id: 381875, name: "KEKW", provider: "ffz"},
   {id: 162146, name: "AYAYA", provider: "ffz"},
   {id: 305831, name: "FeelsBadMan", provider: "ffz"},
   {id: 303899, name: "widepeepoSad", provider: "ffz"},
