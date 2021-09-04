@@ -829,6 +829,13 @@ function profilePage() {
                   </div>
                   <button class="buy-emote-btn" data-value="2000" data-name="pepeD">2000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
+                <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">forsenE (if you can't equip the one at the top)</div>
+                <div class="emote-box-img">
+                  <img class="emote-box-url" src="https://static-cdn.jtvnw.net/emoticons/v2/521050/default/dark/3.0">
+                </div>
+                <button class="buy-emote-btn" data-value="0" data-name="forsenE">FREE</button>
+              </div>
               </div>                                        
             </div>
           </div>

@@ -7,7 +7,7 @@ const emoteAvatars = [
   {
     name: "forsenE",
     url: "https://static-cdn.jtvnw.net/emoticons/v2/521050/default/dark/3.0",
-    code: "ifyouseethisvivonZULUL",
+    code: "521050",
     price: 0
   },
   {
