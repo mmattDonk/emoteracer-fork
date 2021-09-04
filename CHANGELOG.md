@@ -7,6 +7,8 @@ Changes unreleased.
 ### Documentation
 
 - README:
+  - Updated contributors ([799f760](https://github.com/mmattbtw/emoteracer.xyz/commit/799f76042c88a4a3a9c1598c72d8c03b6ac6aaf4))
+  - Updated the support section. ([fed1748](https://github.com/mmattbtw/emoteracer.xyz/commit/fed1748f4cbaf44f6d2a553c9b8bf3c146b29321))
   - Added contributors ([b6963bb](https://github.com/mmattbtw/emoteracer.xyz/commit/b6963bb4200231445ec2239c9a7fb0fe88239574))
 
 ## [v1.0.1](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.1) - 2021-09-04 16:48:34
