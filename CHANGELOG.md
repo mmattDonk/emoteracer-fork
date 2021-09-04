@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Unreleased
+
+Changes unreleased.
+
+### Documentation
+
+- README:
+  - Added contributors ([b6963bb](https://github.com/mmattbtw/emoteracer.xyz/commit/b6963bb4200231445ec2239c9a7fb0fe88239574))
+
 ## [v1.0.1](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.1) - 2021-09-04 16:48:34
 
 Added Enzo's emotes ([#5](https://github.com/mmattbtw/emoteracer.xyz/issues/5) and [#6](https://github.com/mmattbtw/emoteracer.xyz/pull/6))
