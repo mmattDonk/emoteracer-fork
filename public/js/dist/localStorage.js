@@ -188,7 +188,7 @@ function generateUsername() {
   for (var i = 0; i < 6; i++) {
     id += characters.charAt(Math.floor(Math.random() * charactersLength));
   }
-  return `Guest_${id}`;
+  return `DankGuest_${id}`;
 }
 
 
