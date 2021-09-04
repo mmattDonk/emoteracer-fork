@@ -744,84 +744,84 @@ function profilePage() {
                   <button class="select-emote-btn">SELECT</button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">WHAAT</div>
+                <div class="emote-box-img">
+                <img class="emote-box-url" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">
+                </div>
+                <button class="buy-emote-btn" data-value="50" data-name="WHAAT">50<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">5Head</div>
+                <div class="emote-box-img">
+                <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5d6096974932b21d9c332904/3x">
+                </div>
+                <button class="buy-emote-btn" data-value="100" data-name="5Head">100<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">EZ</div>
+                <div class="emote-box-img">
+                <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5590b223b344e2c42a9e28e3/3x">
+                </div>
+                <button class="buy-emote-btn" data-value="300" data-name="EZ">300<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">MEGALUL</div>
+                <div class="emote-box-img">
+                <img class="emote-box-url" src="https://cdn.frankerfacez.com/emoticon/419215/4">
+                </div>
+                <button class="buy-emote-btn" data-value="500" data-name="MEGALUL">500<img src="imgs/YEP_COIN.svg"></button>
+                </div>                   
+                </div>
+                <div class="customize-column">
+                <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">POGGERS</div>
+                <div class="emote-box-img">
+                <img class="emote-box-url" src="https://cdn.betterttv.net/emote/58ae8407ff7b7276f8e594f2/3x">
+                </div>
+                <button class="buy-emote-btn" data-value="50" data-name="POGGERS">50<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">Pepega</div>
+                <div class="emote-box-img">
+                <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5aca62163e290877a25481ad/3x">
+                </div>
+                <button class="buy-emote-btn" data-value="200" data-name="Pepega">200<img src="imgs/YEP_COIN.svg"></button>
+                </div>                
+                <div class="emote-box animate__animated animate__faster">
+                <div class="cosmetic-box-label">OMEGALUL</div>
+                <div class="emote-box-img">
+                <img class="emote-box-url" src="https://cdn.betterttv.net/emote/583089f4737a8e61abb0186b/3x">
+                </div>
+                <button class="buy-emote-btn" data-value="400" data-name="OMEGALUL">400<img src="imgs/YEP_COIN.svg"></button>
+                </div>             
+                <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">Auro</div>
                   <div class="emote-box-img">
                     <img class="emote-box-url" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x">
                   </div>
-                  <button class="buy-emote-btn" data-value="0" data-name="Auro">FREE<img src="imgs/YEP_COIN.svg"></button>
+                  <button class="buy-emote-btn" data-value="1000" data-name="Auro">1000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">mmattDonk</div>
                   <div class="emote-box-img">
                     <img class="emote-box-url" src="https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0">
                   </div>
-                  <button class="buy-emote-btn" data-value="0" data-name="mmattDonk">FREE<img src="imgs/YEP_COIN.svg"></button>
+                  <button class="buy-emote-btn" data-value="1000" data-name="mmattDonk">1000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">ActuallyWicked</div>
                   <div class="emote-box-img">
                     <img class="emote-box-url" src="https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x">
                   </div>
-                  <button class="buy-emote-btn" data-value="0" data-name="ActuallyWicked">FREE<img src="imgs/YEP_COIN.svg"></button>
+                  <button class="buy-emote-btn" data-value="1000" data-name="ActuallyWicked">1000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">elpwsQC</div>
                   <div class="emote-box-img">
                     <img class="emote-box-url" src="https://static-cdn.jtvnw.net/emoticons/v2/305641614/default/dark/3.0">
                   </div>
-                  <button class="buy-emote-btn" data-value="0" data-name="elpwsQC">FREE<img src="imgs/YEP_COIN.svg"></button>
+                  <button class="buy-emote-btn" data-value="1000" data-name="elpwsQC">1000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
-                <div class="emote-box animate__animated animate__faster">
-                  <div class="cosmetic-box-label">WHAAT</div>
-                  <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">
-                  </div>
-                  <button class="buy-emote-btn" data-value="50" data-name="WHAAT">50<img src="imgs/YEP_COIN.svg"></button>
-                </div>
-                <div class="emote-box animate__animated animate__faster">
-                  <div class="cosmetic-box-label">5Head</div>
-                  <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5d6096974932b21d9c332904/3x">
-                  </div>
-                  <button class="buy-emote-btn" data-value="100" data-name="5Head">100<img src="imgs/YEP_COIN.svg"></button>
-                </div>
-                <div class="emote-box animate__animated animate__faster">
-                  <div class="cosmetic-box-label">EZ</div>
-                  <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5590b223b344e2c42a9e28e3/3x">
-                  </div>
-                  <button class="buy-emote-btn" data-value="300" data-name="EZ">300<img src="imgs/YEP_COIN.svg"></button>
-                </div>
-                <div class="emote-box animate__animated animate__faster">
-                  <div class="cosmetic-box-label">MEGALUL</div>
-                  <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.frankerfacez.com/emoticon/419215/4">
-                  </div>
-                  <button class="buy-emote-btn" data-value="500" data-name="MEGALUL">500<img src="imgs/YEP_COIN.svg"></button>
-                </div>                   
-              </div>
-              <div class="customize-column">
-                <div class="emote-box animate__animated animate__faster">
-                  <div class="cosmetic-box-label">POGGERS</div>
-                  <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.betterttv.net/emote/58ae8407ff7b7276f8e594f2/3x">
-                  </div>
-                  <button class="buy-emote-btn" data-value="50" data-name="POGGERS">50<img src="imgs/YEP_COIN.svg"></button>
-                </div>
-                <div class="emote-box animate__animated animate__faster">
-                  <div class="cosmetic-box-label">Pepega</div>
-                  <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.betterttv.net/emote/5aca62163e290877a25481ad/3x">
-                  </div>
-                  <button class="buy-emote-btn" data-value="200" data-name="Pepega">200<img src="imgs/YEP_COIN.svg"></button>
-                </div>                
-                <div class="emote-box animate__animated animate__faster">
-                  <div class="cosmetic-box-label">OMEGALUL</div>
-                  <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.betterttv.net/emote/583089f4737a8e61abb0186b/3x">
-                  </div>
-                  <button class="buy-emote-btn" data-value="400" data-name="OMEGALUL">400<img src="imgs/YEP_COIN.svg"></button>
-                </div>             
                 <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">pepeD</div>
                   <div class="emote-box-img">
