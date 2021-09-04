@@ -1,8 +1,8 @@
 # CHANGELOG
 
-## Unreleased
+## [v1.0.2](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.2) - 2021-09-04 18:48:52
 
-Changes unreleased.
+Added LULE ([#10](https://github.com/mmattbtw/emoteracer.xyz/issues/10))
 
 ### Feature
 
