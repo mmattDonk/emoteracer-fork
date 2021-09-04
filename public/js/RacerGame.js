@@ -139,7 +139,7 @@ function racerGame() {
     if(currentEmoteFirst.provider === "twitch") emoteImg[0].src = `https://static-cdn.jtvnw.net/emoticons/v1/${currentEmoteFirst.id}/3.0`
     if(currentEmoteFirst.provider === "bttv") emoteImg[0].src = `https://cdn.betterttv.net/emote/${currentEmoteFirst.id}/3x`
     if(currentEmoteFirst.provider === "ffz") emoteImg[0].src = `https://cdn.frankerfacez.com/emoticon/${currentEmoteFirst.id}/4`
-    if(currentEmoteFirst.provider === "7tv") emoteImg[1].src = `https://cdn.7tv.app/emote/${currentEmoteFirst.id}/3x`
+    if(currentEmoteFirst.provider === "7tv") emoteImg[0].src = `https://cdn.7tv.app/emote/${currentEmoteFirst.id}/3x`
 
   }
 
