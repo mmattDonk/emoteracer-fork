@@ -737,9 +737,9 @@ function profilePage() {
             <div class="custom-emote-img-container">
               <div class="customize-column">
                 <div class="emote-box emote-box-owned animate__animated animate__faster">
-                  <div class="cosmetic-box-label">YEP</div>
+                  <div class="cosmetic-box-label">forsenE</div>
                   <div class="emote-box-img">
-                    <img class="emote-box-owned-url" src="https://cdn.frankerfacez.com/emoticon/418189/4">
+                    <img class="emote-box-owned-url" src="https://static-cdn.jtvnw.net/emoticons/v2/521050/default/dark/3.0">
                   </div>
                   <button class="select-emote-btn">SELECT</button>
                 </div>

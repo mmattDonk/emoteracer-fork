@@ -169,9 +169,9 @@ if(getUsername() === null) localStorage.setItem("username", generateUsername());
 
 if(getUsernameColor() === null) localStorage.setItem("usernameColor", "white");
 
-if(getProfileImg() === null || getProfileImg() === "https://static-cdn.jtvnw.net/emoticons/v1/1/3.0") localStorage.setItem("profileImg", "https://cdn.frankerfacez.com/emoticon/418189/4");
+if(getProfileImg() === null || getProfileImg() === "https://static-cdn.jtvnw.net/emoticons/v1/1/3.0") localStorage.setItem("profileImg", "https://static-cdn.jtvnw.net/emoticons/v2/521050/default/dark/3.0");
 
-const initOwnedAvatars = ["https://cdn.frankerfacez.com/emoticon/418189/4"]
+const initOwnedAvatars = ["https://static-cdn.jtvnw.net/emoticons/v2/521050/default/dark/3.0"]
 if(getOwnedAvatars() === null || getOwnedAvatars().includes("https://static-cdn.jtvnw.net/emoticons/v1/1/3.0")) localStorage.setItem("ownedAvatars", JSON.stringify(initOwnedAvatars));
 
 const initOwnedColors = ["white"] // Default refers to none
