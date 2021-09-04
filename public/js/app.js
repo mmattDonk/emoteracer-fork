@@ -142,7 +142,7 @@ function mainPage() {
         </div>
         <div class="games-container main-lower">
           <div class="game-box">
-            <img class="game-box-background-img" src="https://cdn.frankerfacez.com/emoticon/229760/4">
+            <img class="game-box-background-img" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">
             <div class="play-box">
               <h1>Battle Royale</h1>
               <button class="play-btn br-play-btn">Play</button>
@@ -153,7 +153,7 @@ function mainPage() {
             <div class="game-icon"><img class="main-br-img main-game-icon" src="imgs/crown-fill.svg"></div>
           </div>
           <div class="game-box">
-            <img class="game-box-background-img" src="https://cdn.frankerfacez.com/emoticon/246878/4">
+            <img class="game-box-background-img" src="https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0">
             <div class="play-box">
               <h1>1 VS 1</h1>
               <button class="play-btn one-play-btn">Play</button>
@@ -164,7 +164,7 @@ function mainPage() {
             <div class="game-icon"><img class="main-one-img main-game-icon" src="imgs/1v1-swords-fill.svg"></div>
           </div>
           <div class="game-box">
-            <img class="game-box-background-img" src="https://cdn.betterttv.net/emote/5d6096974932b21d9c332904/3x">
+            <img class="game-box-background-img" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x">
             <div class="play-box">
               <h1>Practice Solo</h1>            
               <button class="play-btn solo-play-btn">Play</button>
@@ -742,6 +742,41 @@ function profilePage() {
                     <img class="emote-box-owned-url" src="https://cdn.frankerfacez.com/emoticon/418189/4">
                   </div>
                   <button class="select-emote-btn">SELECT</button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">Auro</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="Auro">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">mmattDonk</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="mmattDonk">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">ActuallyWicked</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="ActuallyWicked">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">elpwsQC</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://static-cdn.jtvnw.net/emoticons/v2/305641614/default/dark/3.0">
+                  </div>
+                  <button class="buy-emote-btn" data-value="0" data-name="elpwsQC">FREE<img src="imgs/YEP_COIN.svg"></button>
+                </div>
+                <div class="emote-box animate__animated animate__faster">
+                  <div class="cosmetic-box-label">WHAAT</div>
+                  <div class="emote-box-img">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">
+                  </div>
+                  <button class="buy-emote-btn" data-value="50" data-name="WHAAT">50<img src="imgs/YEP_COIN.svg"></button>
                 </div>
                 <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">5Head</div>

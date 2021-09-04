@@ -5,6 +5,36 @@
 
 const emoteAvatars = [
   {
+    name: "Auro",
+    url: "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x",
+    code: "60d3ffd0448b0762ffbd89e8",
+    price: 0,
+  },
+  {
+    name: "mmattDonk",
+    url: "https://static-cdn.jtvnw.net/emoticons/v2/306852246/default/dark/3.0",
+    code: "306852246",
+    price: 0,
+  },
+  {
+    name: "ActuallyWicked",
+    url: "https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x",
+    code: "60de6a589236aff3225a7682",
+    price: 0,
+  },
+  {
+    name: "elpwsQC",
+    url: "https://static-cdn.jtvnw.net/emoticons/v2/305641614/default/dark/3.0",
+    code: "305641614",
+    price: 0,
+  },
+  {
+    name: "WHAAT",
+    url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x",
+    code: "60c29a6ff922dd0b5674b11d",
+    price: 50,
+  },
+  {
     name: "5Head",
     url: "https://cdn.betterttv.net/emote/5d6096974932b21d9c332904/3x",
     code: "955c6623-a740-4fe2-a226-4197a5bca3d4",
