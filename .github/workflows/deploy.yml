@@ -18,4 +18,5 @@ jobs:
             cd /home/nodejs/emoteracer.xyz
             git pull
             sudo -u nodejs pm2 restart emoteracers
+            sudo -u nodejs systemctl restart nginx
             echo 'Deployment Complete'
