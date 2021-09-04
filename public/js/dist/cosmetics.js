@@ -5,6 +5,12 @@
 
 const emoteAvatars = [
   {
+    name: "forsenE",
+    url: "https://static-cdn.jtvnw.net/emoticons/v2/521050/default/dark/3.0",
+    code: "ifyouseethisvivonZULUL",
+    price: 0
+  },
+  {
     name: "WHAAT",
     url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x",
     code: "60c29a6ff922dd0b5674b11d",
