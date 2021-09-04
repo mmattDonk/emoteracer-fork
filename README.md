@@ -12,7 +12,7 @@ This was forked because the original Emote Racer was taken offline (and I assume
 ## Support
 ~~At the moment it is going to be ad-supported (unless the original creator tells me to stop)~~ Adblocking breaks a lot of the game, so I am no longer going to put ads.
 
-Costs are going towards Heroku bills / SSL certificates. 
+Costs are going towards the DigitalOcean bill.
 
 You can also hit the `Sponsor` button on the top right of the GitHub page for more ways to support me :) <3
 
@@ -24,3 +24,29 @@ You can also hit the `Sponsor` button on the top right of the GitHub page for mo
 * Socket.io
 
 ### `🙌` Code Contributors
+
+<table>
+<tr>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/mmattbtw>
+            <img src=https://avatars.githubusercontent.com/u/30363562?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=matt/>
+            <br />
+            <sub style="font-size:14px"><b>matt</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/CarlssonK>
+            <img src=https://avatars.githubusercontent.com/u/66022459?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Oliver Carlsson/>
+            <br />
+            <sub style="font-size:14px"><b>Oliver Carlsson</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/MrAuro>
+            <img src=https://avatars.githubusercontent.com/u/35087590?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Auro/>
+            <br />
+            <sub style="font-size:14px"><b>Auro</b></sub>
+        </a>
+    </td>
+</tr>
+</table>
