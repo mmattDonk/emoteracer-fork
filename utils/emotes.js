@@ -124,7 +124,6 @@ const emotesServer = [
   { id: "568146", name: "Copesen", provider: "ffz" },
   { id: "563443", name: "COPIUM", provider: "ffz" },
   { id: "60aeae7a229664e8669033b4", name: "Copege", provider: "7tv" },
-  { id: "603cb486c20d020014423c53", name: "FUNDETECTED", provider: "7tv" },
   { id: "60f067db8ed8b373e4222dfc", name: "Chatting", provider: "bttv" },
   { id: "5b490e73cf46791f8491f6f4", name: "HACKERMANS", provider: "bttv" },
   { id: "5d82600ec0652668c9e4e2f2", name: "hackerCD", provider: "bttv" },
@@ -133,7 +132,6 @@ const emotesServer = [
   { id: "425890", name: "UHM", provider: "ffz" },
   { id: "602b804fd049042e32dc46ed", name: "VeryPog", provider: "bttv" },
   { id: "5f5cf1893769246c03219e91", name: "pepeW", provider: "bttv" },
-  { id: "5c74413f41600b0832ab27c9", name: "WTFFF", provider: "bttv" },
   { id: "257284", name: "POGGIES", provider: "ffz" },
   { id: "308193", name: "4Weird", provider: "ffz" },
   { id: "325413", name: "4WeirdW", provider: "ffz" },
@@ -171,7 +169,6 @@ const emotesServer = [
   { id: "411818", name: "Weirdge", provider: "ffz" },
   { id: "527150", name: "Nerdge", provider: "ffz" },
   { id: "287754", name: "POOGERS", provider: "ffz" },
-  { id: "509860", name: "Gladge", provider: "ffz" },
   { id: "244322", name: "peepoGlad", provider: "ffz" },
   { id: "309114", name: "WideHardo", provider: "ffz" },
   { id: "262458", name: "peepoBlanket", provider: "ffz" },
@@ -211,10 +208,8 @@ const emotesServer = [
   { id: "60ae6b2c86fc40d488cf5b80", name: "OkayChamping", provider: "7tv" },
   { id: "5b0da25016252035ad06900e", name: "ppHopper", provider: "bttv" },
   { id: "5e54d76aeb16d554dde59e83", name: "PEPW", provider: "bttv" },
-  { id: "561037", name: "leTroll", provider: "ffz" },
   { id: "60419081306b602acc5972c9", name: "Clueless", provider: "bttv" },
   { id: "60651e09a407570b72f28e03", name: "forsenInsane", provider: "bttv" },
-  { id: "5608cf93fdaf5f3275fe39cd", name: "nyanPls", provider: "bttv" },
 ];
 
 module.exports = emotesServer;
