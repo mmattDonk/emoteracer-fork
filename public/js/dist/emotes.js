@@ -50,7 +50,7 @@ function getEmotes() {
     { id: "55cbeb8f8b9c49ef325bf738", name: "WaitWhat", provider: "bttv" },
     // {id: "604d9058306b602acc59c911", name: "WHAAT", provider: "bttv"},
     { id: "5c6934c724de827d9bbb4723", name: "xqcDitch", provider: "bttv" },
-
+  
     { id: 301073, name: "Pog", provider: "ffz" },
     { id: 231552, name: "PepeHands", provider: "ffz" },
     { id: 139407, name: "LULW", provider: "ffz" },
@@ -59,7 +59,7 @@ function getEmotes() {
     { id: 214681, name: "monkaW", provider: "ffz" },
     { id: 239504, name: "5Head", provider: "ffz" },
     { id: 130762, name: "monkaS", provider: "ffz" },
-    { id: 381875, name: "KEKW", provider: "ffz" },
+    //   {id: 381875, name: "KEKW", provider: "ffz"},
     { id: 162146, name: "AYAYA", provider: "ffz" },
     { id: 305831, name: "FeelsBadMan", provider: "ffz" },
     { id: 303899, name: "widepeepoSad", provider: "ffz" },

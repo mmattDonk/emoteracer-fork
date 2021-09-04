@@ -145,6 +145,7 @@ function racerGame() {
     if(currentEmoteLast.provider === "twitch") emoteImg[1].src = `https://static-cdn.jtvnw.net/emoticons/v1/${currentEmoteLast.id}/3.0`
     if(currentEmoteLast.provider === "bttv") emoteImg[1].src = `https://cdn.betterttv.net/emote/${currentEmoteLast.id}/3x`
     if(currentEmoteLast.provider === "ffz") emoteImg[1].src = `https://cdn.frankerfacez.com/emoticon/${currentEmoteLast.id}/4`
+    if(currentEmoteFirst.provider === "7tv") emoteImg[1].src = `https://cdn.7tv.app/emote/${currentEmoteLast.id}/3x`
   }
 
 

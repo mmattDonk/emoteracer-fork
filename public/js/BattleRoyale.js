@@ -582,6 +582,7 @@ function initBattleRoyale(mode, lastRoomId) {
           if(currentEmote.provider === "twitch") emoteImg.src = `https://static-cdn.jtvnw.net/emoticons/v1/${currentEmote.id}/3.0`
           if(currentEmote.provider === "bttv") emoteImg.src = `https://cdn.betterttv.net/emote/${currentEmote.id}/3x`
           if(currentEmote.provider === "ffz") emoteImg.src = `https://cdn.frankerfacez.com/emoticon/${currentEmote.id}/4`
+          if(currentEmote.provider === "7tv") emoteImg.src = `https://cdn.7tv.app/emote/${currentEmote.id}/3x`
 
           setTimeout(initRoundDOM, 400)
         }
