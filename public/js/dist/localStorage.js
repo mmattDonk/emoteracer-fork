@@ -13,7 +13,7 @@
 
 const getCoins = () => {
   let coins = JSON.parse(localStorage.getItem("coins"));
-  if(coins === null) coins = 0; // If user loads function for the first time
+  if(coins === null) coins = 1; // If user loads function for the first time
 
   return coins
 }

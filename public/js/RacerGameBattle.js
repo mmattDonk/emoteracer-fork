@@ -549,14 +549,12 @@ function racerGameBattle(mode) {
     if(currentEmoteFirst.provider === "twitch") emoteImg[0].src = `https://static-cdn.jtvnw.net/emoticons/v1/${currentEmoteFirst.id}/3.0`
     if(currentEmoteFirst.provider === "bttv") emoteImg[0].src = `https://cdn.betterttv.net/emote/${currentEmoteFirst.id}/3x`
     if(currentEmoteFirst.provider === "ffz") emoteImg[0].src = `https://cdn.frankerfacez.com/emoticon/${currentEmoteFirst.id}/4`
-    if(currentEmoteFirst.provider === "7tv") emoteImg[0].src = `https://cdn.7tv.app/emote/${currentEmoteFirst.id}/3x`
   }
 
   function setEmoteLast() {
     if(currentEmoteLast.provider === "twitch") emoteImg[1].src = `https://static-cdn.jtvnw.net/emoticons/v1/${currentEmoteLast.id}/3.0`
     if(currentEmoteLast.provider === "bttv") emoteImg[1].src = `https://cdn.betterttv.net/emote/${currentEmoteLast.id}/3x`
     if(currentEmoteLast.provider === "ffz") emoteImg[1].src = `https://cdn.frankerfacez.com/emoticon/${currentEmoteLast.id}/4`
-    if(currentEmoteFirst.provider === "7tv") emoteImg[1].src = `https://cdn.7tv.app/emote/${currentEmoteFirst.id}/3x`
   }
 
   function dataSkipSplice(data) {
@@ -925,7 +923,7 @@ function racerGameBattle(mode) {
           readonly>
         </div>
         <div class="game-skip-container">
-          <h2 class="game-skip-label">PRESS <img class="arrow-up-key"src="imgs/ArrowUp.svg"> TO SKIP</h2>
+          <h2 class="game-skip-label">PRESS <img class="arrow-up-key"src="imgs/ArrowUp.svg"> (Up Arrow) TO SKIP</h2>
         </div>
       </div>
     </div>
