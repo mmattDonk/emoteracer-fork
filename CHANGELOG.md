@@ -4,6 +4,11 @@
 
 Changes unreleased.
 
+### Feature
+
+- emotes:
+  - Added LULE ([e22cd1f](https://github.com/mmattbtw/emoteracer.xyz/commit/e22cd1f79e722cc29b1fe0f139428ebccf4cecee))
+
 ### Documentation
 
 - README:
