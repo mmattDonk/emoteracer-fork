@@ -7,8 +7,8 @@ assignees: mmattbtw
 
 ---
 
-[  ] - 7TV
-[  ] - BTTV
-[  ] - FFZ
+- [ ] - 7TV
+- [ ] - BTTV
+- [ ] - FFZ
 
 **Emote URL:**
