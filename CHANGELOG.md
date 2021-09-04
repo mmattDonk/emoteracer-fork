@@ -1,8 +1,8 @@
 # CHANGELOG
 
-## Unreleased
+## [v1.0.0](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.0) - 2021-09-04 16:25:55
 
-Changes unreleased.
+*No description*
 
 ### Documentation
 
