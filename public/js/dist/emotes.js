@@ -51,6 +51,8 @@ function getEmotes() {
     // {id: "604d9058306b602acc59c911", name: "WHAAT", provider: "bttv"},
     { id: "5c6934c724de827d9bbb4723", name: "xqcDitch", provider: "bttv" },
     { id: "5805580c3d506fea7ee357d6", name: "AlienPls", provider: "bttv" },
+    { id: "60477a2f306b602acc599abf", name: "LULE", provider: "bttv" },
+
 
     { id: 301073, name: "Pog", provider: "ffz" },
     { id: 231552, name: "PepeHands", provider: "ffz" },
