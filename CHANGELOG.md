@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v1.0.1](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.1) - 2021-09-04 16:48:34
+
+Added Enzo's emotes (#5 and #6)
+
+### Feature
+
+- emotes:
+  - Added Enzo's Emote Suggestions ([9913c8d](https://github.com/mmattbtw/emoteracer.xyz/commit/9913c8d512c8e6f78fdba0e428e0399a5105739b)) ([#6](https://github.com/mmattbtw/emoteracer.xyz/pull/6))
+
 ## [v1.0.0](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.0) - 2021-09-04 16:25:55
 
 *No description*
