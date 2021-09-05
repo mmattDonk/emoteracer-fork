@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [v1.0.4](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.4) - 2021-09-05 03:58:50
+
+Added forsenDiscoSnake as a Cosmetic Profile Pic.
+
+### Feature
+
+- cosmetics:
+  - Added forsenDiscoSnake as a Profile Picture ([d2f0aff](https://github.com/mmattbtw/emoteracer.xyz/commit/d2f0aff2a69ff2fefb2d27fe79e2b70ff406dc20))
+
+## [v1.0.3](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.3) - 2021-09-04 19:31:25
+
+Updated deps
+
 ## [v1.0.2](https://github.com/mmattbtw/emoteracer.xyz/releases/tag/v1.0.2) - 2021-09-04 18:48:52
 
 Added LULE ([#10](https://github.com/mmattbtw/emoteracer.xyz/issues/10))
