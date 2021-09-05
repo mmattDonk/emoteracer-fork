@@ -82,6 +82,12 @@ const emoteAvatars = [
     code: "a159def3-d6da-4f04-9989-1f57599795e8",
     price: 2000,
   },
+  {
+    name: "forsenDiscoSnake",
+    url: "https://cdn.7tv.app/emote/60772e29a807bed00612e77e/3x",
+    code: "60772e29a807bed00612e77e",
+    price: 3000,
+  }
 
 ]
 
