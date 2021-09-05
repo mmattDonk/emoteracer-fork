@@ -16,6 +16,7 @@ jobs:
      
           script: |
             cd /home/nodejs/emoteracer.xyz
-            git pull
+            sudo git stash
+            sudo git pull
             sudo -u nodejs pm2 restart emoteracers
             echo 'Deployment Complete'
