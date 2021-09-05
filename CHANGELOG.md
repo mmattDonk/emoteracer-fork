@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v1.0.5](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.5) - 2021-09-05 05:30:32
+
+Added a Discord button.
+
+### Feature
+
+- visual:
+  - Added a Discord button ([986d80a](https://github.com/mmattDonk/emoteracer.xyz/commit/986d80aa2349660211eb33a4b956c73fcec727ea))
+
 ## [v1.0.4](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.4) - 2021-09-05 03:58:50
 
 Added forsenDiscoSnake as a Cosmetic Profile Pic.
