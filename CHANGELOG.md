@@ -1,5 +1,16 @@
 # CHANGELOG
 
+## [v1.0.6](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.6) - 2021-10-05 14:50:55
+
+Updated deps.
+## What's Changed
+* chore(deps): bump axios from 0.21.3 to 0.21.4 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/13
+* Fetch Upstream by @mmattbtw in https://github.com/mmattDonk/emoteracer.xyz/pull/14
+* chore(deps): bump axios from 0.21.4 to 0.22.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/16
+
+
+**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.5...v1.0.6
+
 ## [v1.0.5](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.5) - 2021-09-05 05:30:32
 
 Added a Discord button.
