@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.0.9](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.9) - 2021-11-09 17:08:43
+
+**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.8...v1.0.9
+
 ## [v1.0.8](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.8) - 2021-11-09 17:06:53
 
 ## What's Changed
