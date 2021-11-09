@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## [v1.0.8](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.8) - 2021-11-09 17:06:53
+
+## What's Changed
+* chore(deps): bump axios from 0.22.0 to 0.23.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/18
+* chore(deps): bump socket.io from 4.2.0 to 4.3.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/19
+* chore(deps): bump socket.io from 4.3.0 to 4.3.1 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/20
+* chore(deps): bump axios from 0.23.0 to 0.24.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/21
+* chore(deps): bump socket.io from 4.3.1 to 4.3.2 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/22
+
+
+**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.7...v1.0.8
+
 ## [v1.0.7](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.7) - 2021-10-05 16:00:49
 
 **Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.6...v1.0.7
