@@ -1,5 +1,15 @@
 # CHANGELOG
 
+## Unreleased
+
+Changes unreleased.
+
+### Bug Fixes
+
+- emotes:
+  - swap THIS id ([d77bab8](https://github.com/mmattDonk/emoteracer.xyz/commit/d77bab81519cd5daa0419dd0d0449bf028e5088f))
+  - fixed the link for the THIS emote (#25) ([5aadc14](https://github.com/mmattDonk/emoteracer.xyz/commit/5aadc14f60f839410e89991beac7a0750542c6bf)) ([#25](https://github.com/mmattDonk/emoteracer.xyz/pull/25))
+
 ## [v1.0.9](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.9) - 2021-11-09 17:08:43
 
 **Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.8...v1.0.9
