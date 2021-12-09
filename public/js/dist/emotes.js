@@ -101,7 +101,7 @@ function getEmotes() {
     { id: "60b0dd2d726e10b6642ad03f", name: "AlienDance", provider: "7tv" },
     { id: "60ae2cfb259ac5a73ed9a00c", name: "AlienPls3", provider: "7tv" },
     { id: "60ae958e229664e8667aea38", name: "GIGACHAD", provider: "7tv" },
-    { id: "60b1868058275001781a8bd5", name: "THIS", provider: "7tv" },
+    { id: "618330c5f1ae15abc7ebb8c6", name: "THIS", provider: "7tv" },
     { id: "604e825e688b360014d83d7e", name: "7tvM", provider: "7tv" },
     { id: "603cb41bc20d020014423c4c", name: "BasedGod", provider: "7tv" },
     { id: "603caf21c20d020014423c16", name: "BillyApprove", provider: "7tv" },
