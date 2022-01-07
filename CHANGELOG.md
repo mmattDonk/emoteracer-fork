@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v1.0.11](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.11) - 2022-01-07 06:10:30
+
+## What's Changed
+* chore(deps): bump express from 4.17.1 to 4.17.2 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/26
+* chore(deps): bump socket.io from 4.4.0 to 4.4.1 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/27
+
+
+**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.10...v1.0.11
+
 ## [v1.0.10](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.10) - 2021-12-09 00:27:21
 
 ## What's Changed
