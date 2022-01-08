@@ -1,5 +1,18 @@
 # CHANGELOG
 
+## [v1.0.12](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.12) - 2022-01-08 00:03:22
+
+## What's Changed
+* fix(emotes): fixed the ID for the PagMan emote by @Cryptizism in https://github.com/mmattDonk/emoteracer.xyz/pull/28
+
+
+**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.11...v1.0.12
+
+### Bug Fixes
+
+- emotes:
+  - fixed the ID for the PagMan emote (#28) ([cf3ecbe](https://github.com/mmattDonk/emoteracer.xyz/commit/cf3ecbe4db49996a1f3be98196100f1a62b3111d)) ([#28](https://github.com/mmattDonk/emoteracer.xyz/pull/28))
+
 ## [v1.0.11](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.11) - 2022-01-07 06:10:30
 
 ## What's Changed
