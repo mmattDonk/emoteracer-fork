@@ -34,7 +34,7 @@ const emotesServer = [
   // {id: "591ad4992f456546af54fdcd", name: "whatBlink", provider: "bttv"},
   { id: "5cb9176c750fbb4a2533fc42", name: "xqcSlam", provider: "bttv" },
   { id: "5ebfbb8bec17d81685a51621", name: "OuttaPocket", provider: "bttv" },
-  { id: "61166f9c76ea4e2b9f76fbaa", name: "PagMan", provider: "bttv" },
+  { id: "6180ec8b1f8ff7628e6c0bd2", name: "PagMan", provider: "bttv" },
   { id: "5d922afbc0652668c9e52ead", name: "peepoArrive", provider: "bttv" },
   { id: "5d324913ff6ed36801311fd2", name: "peepoLeave", provider: "bttv" },
   { id: "5a9578d6dcf3205f57ba294f", name: "ppHop", provider: "bttv" },
