@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [v1.0.13](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.13) - 2022-02-17 22:12:48
+
+*No description*
+
 ## [v1.0.12](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.12) - 2022-01-08 00:03:22
 
 ## What's Changed
