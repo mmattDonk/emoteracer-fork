@@ -199,7 +199,6 @@ const emotesServer = [
   { id: "60fa7cfb4c5d42dbbc6d9eb1", name: "Kissahomie", provider: "7tv" },
   { id: "5b35ca08392c604c5fd81874", name: "HYPERCLAP", provider: "bttv" },
   { id: "60ba5e80671673093a6274e1", name: "BBoomer", provider: "7tv" },
-  { id: "60bd74e2dff5a27daf91caf9", name: "ZZoomer", provider: "7tv" },
   { id: "603ca5f8faf3a00014dff0a8", name: "PagMan", provider: "7tv" },
   { id: "60b7842555c320f0e8694be2", name: "PagManSit", provider: "7tv" },
   { id: "60339ab47c74605395f322ba", name: "peepoS", provider: "bttv" },
