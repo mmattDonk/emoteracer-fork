@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## [v1.0.14](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.14) - 2022-02-19 05:57:33
+
+## What's Changed
+* chore(deps): bump follow-redirects from 1.14.4 to 1.14.8 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/33
+* chore(deps): bump engine.io from 6.1.0 to 6.1.2 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/32
+
+
+surely the site doesn't break....
+
 ## [v1.0.13](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.13) - 2022-02-17 22:12:48
 
 *No description*
