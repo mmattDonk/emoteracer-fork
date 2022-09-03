@@ -6,72 +6,21 @@ Clueless
 
 ## [v1.0.14](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.14) - 2022-02-19 05:57:33
 
-## What's Changed
-* chore(deps): bump follow-redirects from 1.14.4 to 1.14.8 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/33
-* chore(deps): bump engine.io from 6.1.0 to 6.1.2 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/32
-
-
-surely the site doesn't break....
-
 ## [v1.0.13](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.13) - 2022-02-17 22:12:48
 
 *No description*
 
 ## [v1.0.12](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.12) - 2022-01-08 00:03:22
 
-## What's Changed
-* fix(emotes): fixed the ID for the PagMan emote by @Cryptizism in https://github.com/mmattDonk/emoteracer.xyz/pull/28
-
-
-**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.11...v1.0.12
-
-### Bug Fixes
-
-- emotes:
-  - fixed the ID for the PagMan emote (#28) ([cf3ecbe](https://github.com/mmattDonk/emoteracer.xyz/commit/cf3ecbe4db49996a1f3be98196100f1a62b3111d)) ([#28](https://github.com/mmattDonk/emoteracer.xyz/pull/28))
-
 ## [v1.0.11](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.11) - 2022-01-07 06:10:30
 
-## What's Changed
-* chore(deps): bump express from 4.17.1 to 4.17.2 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/26
-* chore(deps): bump socket.io from 4.4.0 to 4.4.1 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/27
-
-
-**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.10...v1.0.11
-
 ## [v1.0.10](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.10) - 2021-12-09 00:27:21
-
-## What's Changed
-* chore(deps): bump socket.io from 4.3.2 to 4.4.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/23
-* chore(deps): bump node-schedule from 2.0.0 to 2.1.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/24
-* fix(emotes): fixed the link for the THIS emote by @Cryptizism in https://github.com/mmattDonk/emoteracer.xyz/pull/25
-
-## New Contributors
-* @Cryptizism made their first contribution in https://github.com/mmattDonk/emoteracer.xyz/pull/25
-
-**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.9...v1.0.10
-
-### Bug Fixes
-
-- emotes:
-  - swap THIS id ([d77bab8](https://github.com/mmattDonk/emoteracer.xyz/commit/d77bab81519cd5daa0419dd0d0449bf028e5088f))
-  - fixed the link for the THIS emote (#25) ([5aadc14](https://github.com/mmattDonk/emoteracer.xyz/commit/5aadc14f60f839410e89991beac7a0750542c6bf)) ([#25](https://github.com/mmattDonk/emoteracer.xyz/pull/25))
 
 ## [v1.0.9](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.9) - 2021-11-09 17:08:43
 
 **Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.8...v1.0.9
 
 ## [v1.0.8](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.8) - 2021-11-09 17:06:53
-
-## What's Changed
-* chore(deps): bump axios from 0.22.0 to 0.23.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/18
-* chore(deps): bump socket.io from 4.2.0 to 4.3.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/19
-* chore(deps): bump socket.io from 4.3.0 to 4.3.1 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/20
-* chore(deps): bump axios from 0.23.0 to 0.24.0 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/21
-* chore(deps): bump socket.io from 4.3.1 to 4.3.2 by @dependabot in https://github.com/mmattDonk/emoteracer.xyz/pull/22
-
-
-**Full Changelog**: https://github.com/mmattDonk/emoteracer.xyz/compare/v1.0.7...v1.0.8
 
 ## [v1.0.7](https://github.com/mmattDonk/emoteracer.xyz/releases/tag/v1.0.7) - 2021-10-05 16:00:49
 
