@@ -1,4 +1,4 @@
-# Emote Racer 2 ![Website](https://img.shields.io/website?url=https%3A%2F%2Femoteracer.xyz)
+# Emote Racer 2 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fer.mmatt.net)
 ## A fork of the original EmoteRacer
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=3470e3b80f7c&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
