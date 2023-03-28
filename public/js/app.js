@@ -142,7 +142,7 @@ function mainPage() {
         </div>
         <div class="games-container main-lower">
           <div class="game-box">
-            <img class="game-box-background-img" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">
+            <img class="game-box-background-img" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x.webp">
             <div class="play-box">
               <h1>Battle Royale</h1>
               <button class="play-btn br-play-btn">Play</button>
@@ -164,7 +164,7 @@ function mainPage() {
             <div class="game-icon"><img class="main-one-img main-game-icon" src="imgs/1v1-swords-fill.svg"></div>
           </div>
           <div class="game-box">
-            <img class="game-box-background-img" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x">
+            <img class="game-box-background-img" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x.webp">
             <div class="play-box">
               <h1>Practice Solo</h1>            
               <button class="play-btn solo-play-btn">Play</button>
@@ -746,7 +746,7 @@ function profilePage() {
                 <div class="emote-box animate__animated animate__faster">
                 <div class="cosmetic-box-label">WHAAT</div>
                 <div class="emote-box-img">
-                <img class="emote-box-url" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x">
+                <img class="emote-box-url" src="https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x.webp">
                 </div>
                 <button class="buy-emote-btn" data-value="50" data-name="WHAAT">50<img src="imgs/YEP_COIN.svg"></button>
                 </div>
@@ -797,7 +797,7 @@ function profilePage() {
                 <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">Auro</div>
                   <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x.webp">
                   </div>
                   <button class="buy-emote-btn" data-value="1000" data-name="Auro">1000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
@@ -811,7 +811,7 @@ function profilePage() {
                 <div class="emote-box animate__animated animate__faster">
                   <div class="cosmetic-box-label">ActuallyWicked</div>
                   <div class="emote-box-img">
-                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x">
+                    <img class="emote-box-url" src="https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x.webp">
                   </div>
                   <button class="buy-emote-btn" data-value="1000" data-name="ActuallyWicked">1000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
@@ -832,7 +832,7 @@ function profilePage() {
                 <div class="emote-box animate__animated animate__faster">
                 <div class="cosmetic-box-label">forsenDiscoSnake</div>
                 <div class="emote-box-img">
-                  <img class="emote-box-url" src="https://cdn.7tv.app/emote/60772e29a807bed00612e77e/3x">
+                  <img class="emote-box-url" src="https://cdn.7tv.app/emote/60772e29a807bed00612e77e/3x.webp">
                 </div>
                 <button class="buy-emote-btn" data-value="3000" data-name="forsenDiscoSnake">3000<img src="imgs/YEP_COIN.svg"></button>
                 </div>
