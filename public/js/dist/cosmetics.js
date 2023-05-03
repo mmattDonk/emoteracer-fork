@@ -12,7 +12,7 @@ const emoteAvatars = [
   },
   {
     name: "WHAAT",
-    url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x",
+    url: "https://cdn.7tv.app/emote/60c29a6ff922dd0b5674b11d/3x.webp",
     code: "60c29a6ff922dd0b5674b11d",
     price: 50,
   },
@@ -54,7 +54,7 @@ const emoteAvatars = [
   },
   {
     name: "Auro",
-    url: "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x",
+    url: "https://cdn.7tv.app/emote/60d3ffd0448b0762ffbd89e8/3x.webp",
     code: "60d3ffd0448b0762ffbd89e8",
     price: 1000,
   },
@@ -66,7 +66,7 @@ const emoteAvatars = [
   },
   {
     name: "ActuallyWicked",
-    url: "https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x",
+    url: "https://cdn.7tv.app/emote/60de6a589236aff3225a7682/3x.webp",
     code: "60de6a589236aff3225a7682",
     price: 1000,
   },
@@ -84,7 +84,7 @@ const emoteAvatars = [
   },
   {
     name: "forsenDiscoSnake",
-    url: "https://cdn.7tv.app/emote/60772e29a807bed00612e77e/3x",
+    url: "https://cdn.7tv.app/emote/60772e29a807bed00612e77e/3x.webp",
     code: "60772e29a807bed00612e77e",
     price: 3000,
   }
